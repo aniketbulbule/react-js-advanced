@@ -1,0 +1,52 @@
+/* Page background */
+.page {
+  background-color: #f4f6f8;
+  padding: 30px;
+  font-family: Arial, sans-serif;
+}
+
+/* Page heading */
+.title {
+  text-align: center;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+/* Card for each college */
+.card {
+  background-color: #ffffff;
+  padding: 20px;
+  margin-bottom: 25px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Section titles */
+.section-title {
+  color: #2c3e50;
+  margin-bottom: 10px;
+}
+
+/* Normal list */
+.list {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+/* Student box */
+.student-box {
+  background-color: #eef3f8;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+/* Remove bullets for inner list */
+.student-box ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.student-box li {
+  margin: 5px 0;
+}
